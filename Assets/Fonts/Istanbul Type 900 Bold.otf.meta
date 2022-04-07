@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: de58a527e9ca55b499867828f59ceda3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Istanbul Type
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d16fca19a62ec4645a538c90bf435f89, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
